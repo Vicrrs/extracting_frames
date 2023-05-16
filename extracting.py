@@ -37,6 +37,6 @@ def extracting(video_path, output_path):
 
 
 # Exemplo de uso
-video_path = "caminho/do/video.mp4"  # Substitua pelo caminho do seu vídeo
-output_path = "caminho/do/diretorio/de/saida"  # Substitua pelo caminho do diretório de saída
+video_path = "/home/victorroza/PycharmProjects/extracting_frames/Videos/video_teste.mp4"  # Substitua pelo caminho do seu vídeo
+output_path = "/home/victorroza/PycharmProjects/extracting_frames/Frames"  # Substitua pelo caminho do diretório de saída
 extracting(video_path, output_path)
